@@ -8,6 +8,8 @@ This repository contains the following assignments:
 
 [Behavioral Economics](behavioral_economics/) - evaluates the way a person makes wrong choices under certain circumstances.
 
+[Fixed Polyominoes](fixed_polyominoes/) - calculates number of fixed polyominoes for each possible set of n squares.
+
 [Graeco-Latin Squares](graeco_latin_squares/) - examines the construction of graeco-latin squares.
 
 [K-core Decomposition](k_cores/) - calculates k-core number of each node of a given graph.
