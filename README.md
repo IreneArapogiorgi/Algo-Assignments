@@ -12,6 +12,8 @@ This repository contains the following assignments:
 
 [Graeco-Latin Squares](graeco_latin_squares/) - examines the construction of graeco-latin squares.
 
+[Network Destruction](network_destruction/) - examines the immunization of a given network.
+
 [K-core Decomposition](k_cores/) - calculates k-core number of each node of a given graph.
 
 ## Build With
